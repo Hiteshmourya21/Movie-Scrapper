@@ -13,3 +13,9 @@ A Python GUI tool to scrape IMDb movie reviews and export them.
 Install them using:
 ```bash
 pip install -r requirements.txt
+```
+
+## Running
+run the project using:
+```bash
+python movie_scraper.py
